@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="150" src="https://github.com/ramdhinafinita/ramdhinafinita/blob/main/logofini.gif"/>
+  <img width="200" src="https://github.com/ramdhinafinita/ramdhinafinita/blob/main/logofini.gif"/>
 </p>  
 <h2 align="center">Hi there 👋, I'm Fini!</h2>
 
