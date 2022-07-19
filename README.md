@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhinafinita&theme=neon-palenight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&layout=compat&theme=neon-palenight&hide_border=true)
 
 
 **Languages and Tools:**  
