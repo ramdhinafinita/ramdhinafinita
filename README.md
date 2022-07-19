@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/finita.a/" target="blank">Instagram: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Medium" height="30" width="30" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
+<p align="left">
+<a href="https://github.com/ramdhinafinita">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramdhinafinita&show_icons=true&neon-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact&langs_count=8&theme=neon-palenight&hide_border=true"/>
+</a>
+</p>
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhinafinita&show_icons=true&theme=tokyonight)
 
