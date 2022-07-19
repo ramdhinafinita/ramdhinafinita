@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://github.com/ramdhinafinita/ramdhinafinita/blob/main/logo%20github%20fini.mp4" />
+  <img width="92" src="https://www.canva.com/design/DAE0aGKMAso/aGUMmDm_MY0i9jrv1rw8Yg/watch?utm_content=DAE0aGKMAso&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 </p>  
 <h2 align="center">Hi there 👋, I'm Fini!</h2>
 
