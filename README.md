@@ -36,23 +36,6 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&theme=neon-palenight&hide_border=true)
 
 
-<!--
-## Medium Articles
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
--->
-## Repos
-
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=ramdhinafinita&repo=fastapi-web-starter&show_owner=true)](https://github.com/ramdhinafinita/fastapi-web-starter)
-
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=ramdhinafinita&repo=gitstart&show_owner=true)](https://github.com/ramdhinafinita/gitstart)
-
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=ramdhinafinita&repo=awesome&show_owner=true)](https://github.com/ramdhinafinita/awesome)
-
-
-
 **Languages and Tools:**  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
@@ -60,11 +43,10 @@ Here are some ideas to get you started:
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
+<code><img height="40" src="https://lh3.googleusercontent.com/u_CmfWyeCTPCI4ccvG4plyIo3Le6asnkv6RvGjLFc7Sr9gYcLF5d-8nHd4bV5MvI74L8je9ZlZW1giB18kQ0G89XO31EjSmFjOAEpA"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
 ![](https://komarev.com/ghpvc/?username=ramdhinafinita)
