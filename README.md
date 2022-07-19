@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 </p>  
 <h2 align="center">Hi there 👋, I'm Fini!</h2>
 
-
-<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://www.instagram.com/finita.a/" target="blank">Instagram: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.instagram.com/finita.a/" target="blank">Instagram: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Medium" height="30" width="30" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ramdhinafinita&column=9&theme=gruvbox&no-frame=true"/>
