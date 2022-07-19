@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ramdhinafinita/ramdhinafinita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,10 +23,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/finita.a/" target="blank">Instagram: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Medium" height="30" width="30" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ramdhinafinita&column=9&theme=gruvbox&no-frame=true"/>
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhinafinita&show_icons=true&theme=tokyonight)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact)
 
