@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhinafinita&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact&theme=palenight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&layout=compact&theme=neon-palenight&hide_border=true)
 
