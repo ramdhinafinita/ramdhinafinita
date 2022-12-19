@@ -26,9 +26,13 @@ Here are some ideas to get you started:
 <h2>🏆 Github Profile Trophy</h2>
 <p align="left">
 <a href="https://github.com/ramdhinafinita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramdhinafinita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact&theme=tokyonight&"/> <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&layout=compact&theme=neon-palenight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact&langs_count=8&theme=radical"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramdhinafinita&show_icons=true&theme=radical&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&layout=compact&theme=radical&hide_border=true"/> 
+  
+  
+
+</a>
 </a>
 </p>
 
