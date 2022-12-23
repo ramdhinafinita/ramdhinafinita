@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img width="100" src="https://github.com/ramdhinafinita/ramdhinafinita/blob/main/logofini.gif"/>
 </p>  
 <h2 align="center">Hi there 👋, I'm Fini!</h2> 
-<h3 align="center">🔭 I’m currently study in Geographic Information System at Gadjah Mada University</h3> <br>
+<h3 align="center">🔭 I’m currently work as Data Science</h3> <br>
 
 <a href="https://www.linkedin.com/in/ramdhinafinita/" target="blank">Linkedin:  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Medium" height="20" width="20" /></a>
 
