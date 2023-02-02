@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-End+Web+Developer+and+App+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="100" src="https://github.com/ramdhinafinita/ramdhinafinita/blob/main/logofini.gif"/>
