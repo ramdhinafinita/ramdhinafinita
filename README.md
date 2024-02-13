@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-End+Web+Developer+and+Data+Scientist.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="100" src="https://github.com/ramdhinafinita/ramdhinafinita/blob/main/logofini.gif"/>
+  <img width="100" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>
 </p>  
 <h2 align="center">Hi there 👋, I'm Fini!</h2> 
 <h3 align="center">🔭 I’m currently work as Data Science</h3> <br>
@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 <h2>🏆 Github Profile Trophy</h2>
 <p align="left">
 <a href="https://github.com/ramdhinafinita">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&layout=compact&theme=radical&hide_border=true"/> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramdhinafinita&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact&langs_count=8&theme=radical"/><br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ramdhinafinita&layout=compact&theme=buefy"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramdhinafinita&show_icons=true&theme=buefy&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramdhinafinita&layout=compact&langs_count=8&theme=buefy"/><br>
   
-  
-  
+
 
 </a>
 </a>
@@ -52,3 +51,5 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 
 ![](https://komarev.com/ghpvc/?username=ramdhinafinita)
+
+
